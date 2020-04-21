@@ -1,0 +1,34 @@
+Borough,Neighborhood,ID,Name,Likes,Rating,Tips
+Bronx,Woodlawn,4c0448d9310fc9b6bf1dc761,Curry Spot,5,8.0,10
+Bronx,Unionport,4c194631838020a13e78e561,Melanies Roti Bar And Grill,3,6.3,2
+Brooklyn,Bay Ridge,545835a1498e820edc6f636f,Bombay Grill,14,6.9,4
+Brooklyn,Greenpoint,51a5445c498ee0f182370cb2,Agra Taj Mahal,34,7.1,16
+Brooklyn,Bushwick,5169f5c4e4b0c7fcb77a0f3c,Agra Heights,12,5.7,5
+Brooklyn,Brooklyn Heights,4b8ffc16f964a520246e33e3,Curry Heights,31,7.3,17
+Brooklyn,Gowanus,52f18573498ec2c34e830ffd,Kanan's Indian Restaurant,24,7.5,8
+Brooklyn,Fort Greene,57596dad498e732300496b23,Dosa Royale,75,8.7,22
+Brooklyn,Clinton Hill,568d3902498e619efcbc3f58,Spice & Grill,20,7.5,6
+Brooklyn,Clinton Hill,4ace7c86f964a520d3d020e3,Kinara's,9,5.7,20
+Brooklyn,Boerum Hill,543870ec498ec64de510608d,Masala Grill,39,7.9,14
+Brooklyn,Prospect Lefferts Gardens,4bb93b70cf2fc9b6fe64a002,Gandhi Fine Indian Cuisine,81,8.6,47
+Brooklyn,North Side,5631511b498e3d6d7e0a4df0,Tikka Indian Grill,95,8.5,29
+Manhattan,Washington Heights,4ae7876ef964a5201eac21e3,Kismat Indian Restaurant,45,7.7,25
+Manhattan,Hamilton Heights,54c2bd96498eaf5142e3fe92,Clove Indian Restaurant & Bar,32,7.7,17
+Manhattan,Manhattanville,529d382a11d2dd5ef107e641,Chapati House - NYC,73,7.8,18
+Manhattan,Yorkville,4e221f671495f18f035610f6,Mumtaz,14,7.1,11
+Manhattan,Midtown,49d91c12f964a520015e1fe3,The Kati Roll Company,834,8.7,259
+Manhattan,Chelsea,4b4aab62f964a520978c26e3,Dil-e Punjab Deli,108,8.7,44
+Manhattan,Greenwich Village,56c931b2cd10407d3ecbefda,Ananda,81,8.4,20
+Manhattan,Tribeca,4bbb9dbded7776b0e1ad3e51,Tamarind TriBeCa,590,9.1,148
+Queens,Astoria,0,0,0,0.0,0
+Queens,Kew Gardens,5782c9ce498edde587f5aa14,Tikka Indian Grill,10,7.7,2
+Queens,Long Island City,50a287a7e4b0033f830f06db,Raj's Indian Kitchen,22,7.6,11
+Queens,Rego Park,4b3a8aa5f964a520996925e3,Sajni 026,3,5.7,6
+Queens,Bayside,4f1f4996e4b01ff351a7a50c,Ayna Agra Indian Restaurant,38,8.2,12
+Staten Island,New Dorp,4be74a502468c928505a0243,Taste Of India II,29,8.1,14
+Manhattan,Noho,5a1e961c1987ec47beed877d,Baar Baar,152,8.8,34
+Queens,Jamaica Hills,4c434b2bd691c9b6ef8f8f0a,Sagar Restaurant,10,7.3,6
+Manhattan,Sutton Place,4a63bfb4f964a520b3c51fe3,Chola Eclectic Indian Cuisine,155,8.4,58
+Manhattan,Sutton Place,4fe4fb50c2eee335e4fea69d,Moti Mahal Delux,186,8.4,83
+Manhattan,Flatiron,52a1fa08498ede15b1530912,Deep Indian Kitchen (Indikitch),682,8.4,133
+Queens,Sunnyside Gardens,4c48da9f3013a59356c5f0e1,Saffron Garden,17,7.6,16
